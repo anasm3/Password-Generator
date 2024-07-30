@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    background: #102c35;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    font-size: large;
+}
+
+h1 {
+    font-weight: bold;
+    text-align:left;
+    color: azure;
+    padding-top: 15px;
+    padding-left: 20px;
+    margin-bottom: 0px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    text-align:left;
+    padding-left: 20px;
+    color: #68d600;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+h3{
+    text-align:left;
+    padding-left: 20px;
+    color: lightgoldenrodyellow;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#gen-pass-btn {
+    margin-left: 20px;
+    background: #68d600;
+    margin-bottom: 25px;
+    padding: 6px;
+    color: aliceblue;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 5px;
+}
+
+hr {
+    flex: auto;
+    justify-content: center;
+    width: 380px;
+    margin-bottom: 25px;
+}
+
+#suggest-el1 {
+    color: #68d600;
+    padding: 0px;
+    border: 0px;
+}
+
+#suggest-el2 {
+    color: #68d600;
+    padding: 0px;
+    border: 0px;
+}
+
+#center {
+    position: relative;
+    text-align: center;
+}
+
+p {
+    margin: 6px;
+    background: #102c35;
+}
+button {
+    background: #102c35;
+}

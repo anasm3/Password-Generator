@@ -1,6 +1,6 @@
 # Password-Generator
  
-Random Password Generator is used to by clicking on Clicking on generate button and two random passwords will be generated.
+Random Password Generator is used to by clicking on generate button and two random passwords will be generated.
 
 Links:
 
